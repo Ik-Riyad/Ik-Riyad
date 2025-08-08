@@ -1,12 +1,12 @@
-# Hi, I'm Ibrahim Riyadh 👋  
+# Hi, I'm Ibrahim Khan Riyadh 👋  
 🚀 Full-Stack Web Developer | Tailwind CSS | DaisyUI | React | Node.js | Express | MongoDB | JavaScript  
 
 ## 📍 Location
 Dhaka, Bangladesh  
 
 ## 📧 Contact
-- **Email:** yourname@email.com  
-- **Phone:** +8801XXXXXXXXX  
+- **Email:** ik.riyad123@gmail.com  
+- **Phone:** +8801681048811  
 
 ## 🛠 Skills
 - Frontend: Tailwind CSS, DaisyUI, React  
