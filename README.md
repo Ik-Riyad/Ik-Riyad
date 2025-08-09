@@ -18,7 +18,9 @@ Dhaka, Bangladesh
 Passionate about building modern, responsive, and user-friendly web applications.  
 Experienced through hands-on projects and structured development challenges from Programming Hero.
 
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+<p align="center">
+ <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+</p>
 
 <p align="center">
     <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
