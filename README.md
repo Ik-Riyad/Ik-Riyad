@@ -46,8 +46,9 @@ Always eager to learn new technologies and improve coding skills.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ik-Riyad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-Riyad&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ik-Riyad&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-Riyad&layout=compact&theme=radical)
 
 
 
