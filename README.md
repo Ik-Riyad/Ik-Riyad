@@ -46,13 +46,9 @@ Always eager to learn new technologies and improve coding skills.
 ---
 
 ## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ik-Riyad&show_icons=true&theme=radical" alt="GitHub stats" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-Riyad&layout=compact&theme=radical" alt="Top Languages" style="width: 49%; height: 200px;" />
-</div>
-
-<img src="https://streak-stats.demolab.com?user=Ik-Riyad&theme=radical" alt="GitHub Streak" style="width: 100%;" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ik-Riyad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-Riyad&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ik-Riyad&theme=radical)
 
 
 
