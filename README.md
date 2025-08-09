@@ -5,7 +5,7 @@
 
 
 # Ibrahim Khan Riyadh
-**Full Stack Web Developer**
+**MERN Stack Web Developer**
 
 ---
 
