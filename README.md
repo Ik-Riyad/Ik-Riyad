@@ -1,5 +1,9 @@
 <!-- Banner Image -->
 <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/banner.svg" alt="Riyad banner" />
+</p>
+
 
 # Ibrahim Khan Riyadh
 **Full Stack Web Developer**
