@@ -1,5 +1,4 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link.com/banner.svg" alt="Banner" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ik-Riyad/Ik-Riyad/main/banner.svg" alt="Riyad banner" />
 </p>
