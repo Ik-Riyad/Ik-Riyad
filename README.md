@@ -10,9 +10,7 @@
 ---
 
 ## 👋 About Me
-Passionate Full Stack Web Developer skilled in building modern, responsive, and user-friendly web applications.  
-Experienced in React, Node.js, MongoDB, and Tailwind CSS with hands-on projects completed.  
-Always eager to learn new technologies and improve coding skills.
+Passionate MERN Stack Developer skilled in building modern, responsive, and user-friendly web applications. Experienced in React, Node.js, Express, MongoDB, and Tailwind CSS with hands-on projects completed. Always eager to learn new technologies and improve coding skills.
 
 ---
 
