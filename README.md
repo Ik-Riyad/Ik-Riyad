@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://your-banner-image-link.com/banner.svg" alt="Banner" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/banner.svg" alt="Riyad banner" />
+  <img src="https://raw.githubusercontent.com/Ik-Riyad/Ik-Riyad/banner.svg" alt="Riyad banner" />
 </p>
 
 
