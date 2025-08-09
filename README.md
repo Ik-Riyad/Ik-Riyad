@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ik-Riyad/Ik-Riyad/main/banner.svg" alt="Riyad banner" />
+  <img src="https://raw.githubusercontent.com/Ik-Riyad/Ik-Riyad/main/banner.svg" alt="Riyadh banner" />
 </p>
 
 
