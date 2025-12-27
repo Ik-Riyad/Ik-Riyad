@@ -16,14 +16,6 @@ Always eager to learn new technologies and improve coding skills.
 
 ---
 
-## 🚀 Current Activities
-- 🌱 Exploring **Next.js**
-- 💻 Working on a **tourism website**
-- 📚 Improving backend skills with **Node.js & MongoDB**
-- ⚡ Learning best practices for scalable applications
-
----
-
 ## 🛠 Skills
 
 ### Frontend
