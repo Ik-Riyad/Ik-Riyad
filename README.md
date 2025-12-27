@@ -19,7 +19,7 @@ Always eager to learn new technologies and improve coding skills.
 ## 🛠 Skills
 
 ### Frontend
-![Vue]()
+![Vue](https://ibb.co.com/v6JLNLMs)
 ![Nuxt](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
