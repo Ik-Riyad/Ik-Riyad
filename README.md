@@ -5,13 +5,13 @@
 
 
 # Ibrahim Khan Riyadh
-**MERN Stack Web Developer**
+**Frontend Web Developer**
 
 ---
 
 ## 👋 About Me
-Passionate MERN Stack Developer skilled in building modern, responsive, and user-friendly web applications.
-Experienced in React, Node.js, Express, MongoDB, and Tailwind CSS with hands-on projects completed. 
+Passionate Frontend Developer skilled in building modern, responsive, and user-friendly web applications.
+Experienced in React, Vue, Nuxt, and Tailwind CSS with hands-on projects completed. 
 Always eager to learn new technologies and improve coding skills.
 
 ---
