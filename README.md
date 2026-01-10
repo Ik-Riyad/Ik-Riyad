@@ -5,26 +5,36 @@
 
 
 # Ibrahim Khan Riyadh
-**Frontend Web Developer**
+**MERN Stack Web Developer**
 
 ---
 
 ## 👋 About Me
-Passionate Frontend Developer skilled in building modern, responsive, and user-friendly web applications.
-Experienced in React, Vue, Nuxt, and Tailwind CSS with hands-on projects completed. 
+Passionate MERN Stack Developer skilled in building modern, responsive, and user-friendly web applications.
+Experienced in React, Node.js, Express, MongoDB, and Tailwind CSS with hands-on projects completed. 
 Always eager to learn new technologies and improve coding skills.
+
+---
+
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js**
+- 💻 Working on a **tourism website**
+- 📚 Improving backend skills with **Node.js & MongoDB**
+- ⚡ Learning best practices for scalable applications
 
 ---
 
 ## 🛠 Skills
 
 ### Frontend
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge)
 
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Programming Language
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -48,3 +58,31 @@ Always eager to learn new technologies and improve coding skills.
 📍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** ik.riyad123@gmail.com
 📞 **Phone:** +8801681048811
+
+
+
+
+Mern Stack Developer | Team Lead & Deputy Project Coordinator at AcmeAI | Coding Enthusiast & Career Growth Seeker
+
+𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨
+💼 Lead teams and coordinate projects at AcmeAI, a data annotation company, ensuring smooth operations and quality.
+💻 Build and enhance web applications using modern Front-End technologies while expanding my technical skills and experience.
+
+𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+🚀 Completed a comprehensive Front-End Web Development course.
+🛠 Skilled in React, React Router, Tailwind CSS, DaisyUI, Node.js, Express, Firebase, JavaScript, HTML, CSS, and MongoDB.
+
+𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬
+MERN Stack Development | Project Coordination & Team Leadership | Responsive UI Design | API Development & Integration | Agile Workflow & Collaboration
+
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+➡️ Growing my career as a software developer.
+➡️ Building scalable, user-friendly web applications.
+➡️ Continuous learning and mastering new technologies.
+
+
+📬 Let’s connect and collaborate!
+📧 ik.riyad123@gmail.com
+
+
+
